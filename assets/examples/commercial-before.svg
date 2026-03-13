@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-label="Before redesign mock screenshot for commercial HVAC installer website">
+  <defs>
+    <linearGradient id="bgBefore" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f0f4fa"/>
+      <stop offset="100%" stop-color="#e5ecf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bgBefore)"/>
+  <rect x="56" y="56" width="1488" height="888" rx="18" fill="#ffffff" stroke="#c9d8ea"/>
+  <rect x="56" y="56" width="1488" height="66" rx="18" fill="#e7eef8"/>
+  <rect x="96" y="82" width="220" height="16" rx="8" fill="#9db4d3"/>
+  <rect x="360" y="82" width="130" height="16" rx="8" fill="#b4c4d9"/>
+  <rect x="510" y="82" width="130" height="16" rx="8" fill="#b4c4d9"/>
+  <rect x="660" y="82" width="130" height="16" rx="8" fill="#b4c4d9"/>
+  <rect x="810" y="82" width="130" height="16" rx="8" fill="#b4c4d9"/>
+  <rect x="960" y="82" width="130" height="16" rx="8" fill="#b4c4d9"/>
+  <rect x="1110" y="82" width="130" height="16" rx="8" fill="#b4c4d9"/>
+  <rect x="1260" y="78" width="220" height="24" rx="12" fill="#c4d1e2"/>
+
+  <rect x="96" y="160" width="1408" height="300" rx="12" fill="#f4f7fc" stroke="#d7e2f0"/>
+  <rect x="128" y="196" width="560" height="28" rx="10" fill="#c6d4e6"/>
+  <rect x="128" y="238" width="980" height="16" rx="8" fill="#d3deec"/>
+  <rect x="128" y="266" width="930" height="16" rx="8" fill="#d3deec"/>
+  <rect x="128" y="294" width="860" height="16" rx="8" fill="#d3deec"/>
+  <rect x="128" y="338" width="190" height="36" rx="8" fill="#c8d4e4"/>
+  <rect x="1150" y="196" width="322" height="236" rx="10" fill="#edf2f9" stroke="#d4e0ef"/>
+  <rect x="1178" y="226" width="250" height="12" rx="6" fill="#ccd9e9"/>
+  <rect x="1178" y="248" width="220" height="12" rx="6" fill="#d5e0ee"/>
+  <rect x="1178" y="270" width="240" height="12" rx="6" fill="#d5e0ee"/>
+  <rect x="1178" y="316" width="170" height="28" rx="8" fill="#c8d4e4"/>
+
+  <rect x="96" y="500" width="680" height="190" rx="12" fill="#f8fbff" stroke="#d8e4f3"/>
+  <rect x="812" y="500" width="692" height="190" rx="12" fill="#f8fbff" stroke="#d8e4f3"/>
+  <rect x="128" y="536" width="250" height="14" rx="7" fill="#adc2de"/>
+  <rect x="128" y="560" width="580" height="12" rx="6" fill="#d3dfed"/>
+  <rect x="128" y="582" width="540" height="12" rx="6" fill="#d3dfed"/>
+  <rect x="844" y="536" width="250" height="14" rx="7" fill="#adc2de"/>
+  <rect x="844" y="560" width="590" height="12" rx="6" fill="#d3dfed"/>
+  <rect x="844" y="582" width="550" height="12" rx="6" fill="#d3dfed"/>
+
+  <rect x="96" y="730" width="450" height="170" rx="12" fill="#f5f9ff" stroke="#d8e5f4"/>
+  <rect x="570" y="730" width="450" height="170" rx="12" fill="#f5f9ff" stroke="#d8e5f4"/>
+  <rect x="1044" y="730" width="460" height="170" rx="12" fill="#f5f9ff" stroke="#d8e5f4"/>
+  <rect x="128" y="764" width="290" height="12" rx="6" fill="#c7d6e8"/>
+  <rect x="602" y="764" width="290" height="12" rx="6" fill="#c7d6e8"/>
+  <rect x="1076" y="764" width="290" height="12" rx="6" fill="#c7d6e8"/>
+</svg>
