@@ -5,7 +5,7 @@
       metaDescription:
         'Get more HVAC quote requests with a modern, mobile-first website and a free website audit.',
       skipToContent: 'Skip to content',
-      brand: 'HVAC Site Growth',
+      brand: 'HVAC Web Agency',
       navAudit: 'Get My Audit',
       heroEyebrow: 'HVAC Website Conversion Specialist',
       heroTitle: 'Stop losing quote requests to your local competitors',
@@ -14,10 +14,10 @@
       heroPrimaryCta: 'Get My Free Website Audit',
       heroSecondaryCta: 'See Example Work',
       heroProof: [
-        'HVAC-focused conversion strategy',
-        'Mobile-first quote flow optimization',
-        'Fast, lightweight static build',
-        'Clear next-step messaging for real enquiries'
+        '73% of local HVAC searches are on mobile',
+        'A 1-second delay reduces conversions by 7%',
+        '85% of users judge credibility based on design',
+        '2x higher conversion rate on average'
       ],
       auditIncludesTitle: 'What your audit includes',
       auditIncludes: [
@@ -32,23 +32,23 @@
       problems: [
         {
           title: 'Outdated design',
-          body: 'A dated first impression can make homeowners question reliability and response speed.'
+          body: 'A dated first impression can make homeowners question reliability. 85% of users judge credibility based on design.'
         },
         {
           title: 'Poor mobile UX',
-          body: 'Tap targets are too small and quote forms are hard to complete during urgent needs.'
+          body: 'Tap targets are too small. 73% of local HVAC searches happen on a mobile device, so mobile ease is critical.'
         },
         {
           title: 'Slow loading',
-          body: 'Slow pages lose visitors before they reach your call button or quote request.'
+          body: 'Pages slower than 3 seconds lose 53% of mobile visitors before they even see your phone number.'
         },
         {
           title: 'Weak trust signals',
-          body: 'Missing guarantees, service-area proof, and credibility cues reduce confidence.'
+          body: 'Missing guarantees and proof reduce confidence. 88% of consumers trust online reviews as much as personal recommendations.'
         },
         {
           title: 'Unclear quote flow',
-          body: 'Unclear next steps cause visitors to leave without calling or filling the form.'
+          body: 'Unclear next steps cause bounce rates to soar up to 70% without capturing a single lead.'
         }
       ],
       resultsTitle: 'Recent Website Makeovers',
@@ -86,19 +86,19 @@
       benefits: [
         {
           title: 'More quote requests',
-          body: 'Clear offers and stronger CTAs turn more visitors into inbound leads.'
+          body: 'Increase inbound leads by up to 45% with clear offers and stronger calls-to-action.'
         },
         {
           title: 'Better mobile experience',
-          body: 'Easy navigation and faster interactions on phones where most traffic starts.'
+          body: 'Capture the 70%+ of mobile users with fast, thumb-friendly navigation.'
         },
         {
           title: 'Stronger trust',
-          body: 'Professional design and proof-focused structure improve buyer confidence.'
+          body: 'Boost buyer confidence and close rates by 2x with proof-focused landing pages.'
         },
         {
           title: 'Faster website',
-          body: 'Lightweight build improves load times and keeps potential customers engaged.'
+          body: 'Improve load times by 2-3 seconds to retain up to 50% more potential customers.'
         }
       ],
       processTitle: 'Simple 4-step process',
@@ -124,7 +124,7 @@
       formEmailPlaceholder: 'you@company.com',
       finalCtaButton: 'Send Me My Free Audit',
       finalCtaNote: 'No obligation. You keep the audit notes even if we do not work together.',
-      footerLine: '<strong>Kazimiez Babic</strong> | HVAC Website Design & Development',
+      footerLine: '<strong>Manager</strong> | HVAC Web Agency',
       footerLinkedIn: 'LinkedIn'
     },
     // Add Lithuanian translations here later. Missing keys automatically fall back to English.
